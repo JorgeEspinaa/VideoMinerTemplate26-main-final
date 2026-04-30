@@ -1,0 +1,13 @@
+aiss\dailymotionminer\service\VideoMinerIntegrationService.class
+aiss\dailymotionminer\DailymotionminerApplication.class
+aiss\dailymotionminer\model\DailymotionOwner.class
+aiss\dailymotionminer\dto\VMComment.class
+aiss\dailymotionminer\dto\VMUser.class
+aiss\dailymotionminer\dto\VMChannel.class
+aiss\dailymotionminer\model\DailymotionVideo$Subtitle.class
+aiss\dailymotionminer\dto\VMCaption.class
+aiss\dailymotionminer\model\DailymotionVideoResponse.class
+aiss\dailymotionminer\model\DailymotionVideo.class
+aiss\dailymotionminer\service\DailymotionService.class
+aiss\dailymotionminer\controller\ChannelMinerController.class
+aiss\dailymotionminer\dto\VMVideo.class
